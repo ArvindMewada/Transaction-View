@@ -36,7 +36,6 @@ public class MainActivity extends AppCompatActivity {
     Button relativeLayout;
     TextView totalIncoming, totalExpenses;
 
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
