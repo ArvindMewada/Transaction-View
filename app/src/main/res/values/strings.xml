@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">PayO</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="expanse_message">All Expanse </string>
+    <string name="incoming_message">All Incoming  Fragment</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="total_income">Total Incoming</string>
+    <string name="total_expenses">Total Expenses</string>
+    <string name="zero">0</string>
+    <string name="see_all_transaction">See All Transaction</string>
+    <string name="description">PayO is a netBanking platform for SMEs in India. We are building a collaborative universe of buyers.</string>
+</resources>
